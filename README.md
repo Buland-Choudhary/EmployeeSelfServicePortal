@@ -3,7 +3,7 @@
 A no-code/low-code solution built with **Microsoft Power Apps**, **Power Automate**, and **Dataverse** to manage common HR workflows — such as leave, reimbursement, and asset requests — for both employees and managers.
 
 > **Video demo coming soon**  
-> Scroll below for screenshots (to be added)
+> Scroll below for screenshots
 
 ---
 
@@ -119,9 +119,12 @@ To simulate real users, a dropdown is used for role selection:
 
 ## 📸 Screenshots
 
-- ![Home Screen](./images/home.png)
-- ![Submit Request](./images/submit.png)
-- ![Manager Dashboard](./images/manager.png)
+- ![Home Screen](./images/welcome.png)
+- ![Submit Request](./images/dashboard.png)
+- ![Manager Dashboard](./images/yourrequests.png)
+- ![Home Screen](./images/submitrequest.png)
+- ![Submit Request](./images/pendingrequests.png)
+- ![Manager Dashboard](./images/requestdetails.png)
 
 ---
 
